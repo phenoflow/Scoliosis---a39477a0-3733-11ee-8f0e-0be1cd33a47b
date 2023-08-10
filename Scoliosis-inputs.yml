@@ -1,0 +1,36 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/kyphoscoliotic-scoliosis---primary.py
+inputModule3:
+  class: File
+  path: python/scoliosis---primary.py
+inputModule4:
+  class: File
+  path: python/kyphoscoliosis---primary.py
+inputModule5:
+  class: File
+  path: python/idiopathic-scoliosis---primary.py
+inputModule6:
+  class: File
+  path: python/scoliosis-infantile---primary.py
+inputModule7:
+  class: File
+  path: python/postural-scoliosis---primary.py
+inputModule8:
+  class: File
+  path: python/other-scoliosis---primary.py
+inputModule9:
+  class: File
+  path: python/congenital-scoliosis---primary.py
+inputModule10:
+  class: File
+  path: python/scoliosis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
